@@ -19,8 +19,7 @@ An end-to-end Power BI dashboard project analyzing 200,000 marketing campaigns a
 - Foodies segment leads in total clicks (22.08M)
 - All 5 companies perform within a narrow ROI band (4.99–5.01)
 
-## 📷 Dashboard Preview
-*(Add screenshot here)*
+
 
 ## 👤 Author
 **Sukhdev Gujjar**
